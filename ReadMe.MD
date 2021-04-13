@@ -5,7 +5,7 @@ SDET Assignment by OCC
 
 ## Getting Started
 
-Download the project from GitHub and download the project file in eclipse workspace
+Download the project from GitHub and save the project file in eclipse workspace
 or the other way is to import the project from eclipse as a GitHub source.
 Once it is available in the eclipse, there is no ther dependencies as all the dependencies are covered under pom.xml
 json,csv and output file path is already provided in sach a way, it should automatically take care from source
